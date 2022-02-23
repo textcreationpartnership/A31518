@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries upon Dr. Pierces sermon at Whitehall Feb. 1</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31518</idno>
+            <idno type="STC">Wing C1745</idno>
+            <idno type="STC">ESTC R18163</idno>
+            <idno type="EEBO-CITATION">11743387</idno>
+            <idno type="OCLC">ocm 11743387</idno>
+            <idno type="VID">48513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries upon Dr. Pierces sermon at Whitehall Feb. 1</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pierce, Thomas, 1622-1691. --  Primitive rule of reformation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48513:1"/>
+            <!-- PDF PAGE 120 -->
+            <pb facs="tcp:48513:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <p>CERTAIN QUERIES UPON D<hi rend="sup">r</hi>. PIERCES SERMON At <hi>Whitehall</hi> Feb. 1.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48513:2"/>
+            <!-- PDF PAGE 121 -->
+            <pb n="3" facs="tcp:48513:2"/>
+            <!-- PDF PAGE 121 -->
+            <head>CERTAIN QUERIES UPON D<hi rend="sup">r.</hi> PIERCES SERMON At <hi>White-hall.</hi> 
+               <date>Feb. 1.</date>
+            </head>
+            <p>
+               <label>
+                  <hi>Querie</hi> 1.</label>
+               <lb/>
+WHether it be ſeaſonable at this time to exaſperate the ſupream Magiſtrate with any aggravations of diſſenters opinions, when the diſſenters ſit down peaceably, and grant themſelves erroneous; and therefore deſire a toleration only for what is publickly judged an er<g ref="char:EOLhyphen"/>rour, and not the eſtabliſhment of any thing, to be pub<g ref="char:EOLhyphen"/>lickly allowed as truth? If we the Heterodox part of this
+<pb n="4" facs="tcp:48513:2"/>
+               <!-- PDF PAGE 121 -->Nation were in the right, we would crave publick counte<g ref="char:EOLhyphen"/>nance and ſettlement, whereas now we humbly deſire only publick favour and indulgence as thoſe that are preſumed to be in the wrong; and therefore it is but loſt labour to ſpend whole Sermons to prove that we are ſo?</p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 2.</label>
+               <lb/>
+To what end was this diſcourſe directed? not to confirm his Majeſty in the errour of our waies? for he had declared his reſolution againſt our doctrine before, not that I have hope to widen the breach between us: for that is not the work of a Miniſter of the Goſpel of peace, not to inſtruct the people, for they can never ſatisfy themſelver by your diſcourſe, which leads them to fathers and other authours they do not know, to ſuch quotations as they know not whe<g ref="char:EOLhyphen"/>ther they are wreſted or not: not to convert us who you knew ſhould not hear you: nor when we have heard you, ſhould we with freedom offer our ſelves againſt what you ſay, which muſt be this ſince we are converted?</p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 3.</label>
+               <lb/>
+But ſuppoſing, your diſcourſe, ſeaſonable and uſeful, what do you mean by that which was from the beginning? do you mean primitive examples, or primitive rules? if you mean primitive examples, they are not a rule of Refor<g ref="char:EOLhyphen"/>mation, becauſe we are not to do as <hi>men have done,</hi> but as <hi>men ought to do?</hi> If you mean primitive rules, you mean either the Scripture, or ſomething added to it, not any thing added to it: for you ſay <hi>Curſed is he that addeth any thing to it, or taketh away any thing from it?</hi> and if you mean the Scripture it ſelf, the <hi>Query</hi> is, Wrether <hi>it be a rule of reformation,</hi> as ſome men underſtand it, or as all men do: not as all men do, for then either we ſhould have no refor<g ref="char:EOLhyphen"/>mation,
+<pb n="5" facs="tcp:48513:3"/>
+               <!-- PDF PAGE 122 -->all men never agreeing to the rule of it: or we muſt have as many reformations as there are opinions in the world; and as you reform beyond us, according to your ſenſe of Scripture, ſo the <hi>Presbyterian</hi> reforms beyond you in his ſenſe of it, and the <hi>Fanatick</hi> beyond him according to his ſenſe, and <hi>primitive rule of Reformation?</hi> If as ſome men do underſtand the Scripture it be a rule of Reformation, then either as you do, or as we do? If you ſay as you do, you are partial in your ſelves, and you allow your ſelves what you with ſo much bitterneſs deny us to be Lords <hi>over mens faith, to be judges of controverſies?</hi> If as we do, then you in your whole <hi>diſcourſe have beaten the air, you have prevailed in vain, and they have heard in vain.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 4.</label>
+               <lb/>
+Whether when you have earneſtly contended againſt the novelties of the Church of <hi>Rome,</hi> you have contended, as you ſay, <hi>for that which was from the beginning,</hi> ſeeing you contended only for the old Proteſtant way? And that be<g ref="char:EOLhyphen"/>ſides the Church of <hi>Rome,</hi> the Eaſtern Churches claim a greater antiquity than yours; and if Popery were down, there are a world of Sects and waies that deſire no more than to try with you out of the Scripture, and that <hi>which was from the beginning, the whole throng of non-conformiſts cry, To the Law and to the Teſtimony,</hi> i. e. <hi>Let us worſhip God ac<g ref="char:EOLhyphen"/>cording to the Scripture, Let us ſerve God in ſpirit and in truth,</hi> as he was ſerved in <hi>the beginning, you teach for do<g ref="char:EOLhyphen"/>ctrines the traditions of men, making the Commandments of God of none effect.</hi> And you know who it was that ſaid, the Scotch way comes neereſt the primitive way than either yours (meaning the Catholick, and ſpeaking to a Catho<g ref="char:EOLhyphen"/>lick Gentleman) or ours, meaning the old Proteſtant, and indeed.</p>
+            <p>
+               <pb n="6" facs="tcp:48513:4"/>
+               <!-- PDF PAGE 123 -->
+               <label>
+                  <hi>Qu.</hi> 5.</label>
+               <lb/>
+What pains you put your ſelves upon, when you ſay we muſt reduce all things to what they were in the <hi>beginning?</hi> where do you find (ſaith the <hi>Fanatick</hi>) Lordbiſhops in the beginning? where were the Biſhops Courts in the begin<g ref="char:EOLhyphen"/>ning? where was Infant Baptiſm in the beginning? where was your Sunday a Sabbath in the beginning? you uſe Croſs, Surplice, Copes, Altars, Organs, Church-muſick, but in the beginning it was not ſo? you impoſe upon ten<g ref="char:EOLhyphen"/>der conſciences, ſay they? you undoe poor men for things in themſelves indifferent: you hinder men to preach the Goſpel, neceſſary to ſalvation, for things in themſelves not neceſſary to ſalvation, in the beginning it was not ſo: you ſing your prayers, you uſe vain repetitions, you pray by book they ſay, in the beginning it was not ſo: you, they ſay, have rich Biſhopricks, Deanaries, Prebendaries, Sinecures, Pluralities (as you your ſelf Dr. <hi>Benit</hi> are Rector of <hi>Brington,</hi> Preſident of <hi>Magdalen</hi> Colledge in <hi>Oxford,</hi> Prebend of <hi>Canterbury,</hi> Canon of <hi>York,</hi> Chaplain to his Majeſty) in the beginning it was not ſo: you have Lay chancellors, Offi<g ref="char:EOLhyphen"/>cials, Surrogates, Faculty-men, promoters, and a whole train (as they call them) of Popiſh officers, they tell you in the beginning it was not ſo: you preach in Gowns, you pray and preach by the hour-glaſs, you meet in Steeple-houſes, you are called Maſters, you preach for hire, in the beginning (ſaith another ſort) it was not ſo: the Queſtion is then whether by examining our way by <hi>what there was in the beginning?</hi> you have not taught others to examine yours ſo too, and to caſt off the authority of your way for a new reformation, as you have caſt off the authority of ours for an old one, and whether you will not as little bear the reſt of the Scripture, and the primitive times, in the <hi>Preſ<g ref="char:EOLhyphen"/>byterian</hi>
+               <pb n="7" facs="tcp:48513:4"/>
+               <!-- PDF PAGE 123 -->ſenſe of them, as you think we can bear the reſt of them in your ſenſe of them?</p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 6.</label>
+               <lb/>
+Why ſhould the Diſciplinarians, <hi>i. e.</hi> the <hi>Presbyterians,</hi> deny themſelves from <hi>Aerius,</hi> as you ſay <hi>p.</hi> 7. who only ſaid, that <hi>a Biſhop is no more a Minister than any other Minister,</hi> rather than from St. <hi>Peter,</hi> who 1 <hi>Pet.</hi> 5.12. ſaith, <hi>he was no more though an Apoſtle, than an ordinary Presbyter.</hi> The Presbyters that are among you I exhort, who alſo am a Presbyter, Feed the flock of God which is among you, per<g ref="char:EOLhyphen"/>forming the office of Biſhops, or from <hi>Clemens Romanus,</hi> who ſaith Presbyters and Biſhops are one: why ſhould the reprobatorious derive themſelves from <hi>Simon Magus,</hi> who believed no eternal way to which men might be reproba<g ref="char:EOLhyphen"/>ted, or the <hi>Manicheer,</hi> who only taught fate in things of this world, either than from the Apoſtle <hi>Paul,</hi> who writes of God thus, that before the children had done either good or evil, he ſays, <hi>Jacob have I loved, Eſau have I <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated. He will have mercy on whom he will have mercy, and whom he will he hardeneth.</hi> Why ſhould the <hi>Solifidians</hi> and <hi>Antinomians</hi> derive themſelves from <hi>Eunomius,</hi> who only ſaid, <hi>That the Law ſaves us not, but faith;</hi> or from miſunderſtanding, the Scripture, which ſaith, <hi>We are not ſaved by the works of the law, but by faith.</hi> And the <hi>Anabaptiſts</hi> and <hi>Socinians</hi> look not upon <hi>Agrippinus</hi> and <hi>Subellus,</hi> who thought no ſuch thing; however you miſtake them in your curſory, and light way of reading and writing, but they all look as you adviſe them upon the Scripture, which (according to the Liberty you take your ſelves and all on them) they under<g ref="char:EOLhyphen"/>ſtand every one as he pleaſeth: you ſay you muſt ask every one how he reads in the beginning; and the Anabaptiſts ſaith he reads <hi>Repent, believe</hi> (which he ſaith a child cannot do) <hi>and be Baptized:</hi> The Socinian reads, <hi>The Father is
+<pb n="8" facs="tcp:48513:5"/>
+                  <!-- PDF PAGE 124 -->higher then I:</hi> The Millonary reads, and they <hi>lived and reigned with Chriſt a thouſand years.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Quer.</hi> 7.</label>
+               <lb/>
+And why ſhould the Papiſts derive their infallibility from the Gnoſticks, who only ſaid, <hi>that every one may know all that is required to ſave him,</hi> rather then from the Scri<g ref="char:EOLhyphen"/>pture, which ſaith, <hi>to Peter thy faith ſhall not fail; which ſpeaks of full aſſurance of faith; of the impoſſibility of de<g ref="char:EOLhyphen"/>ceiving the Elect; of the Church being the</hi> pillar and ground of the truth, <hi>againſt which the gates of bell ſhall not pre<g ref="char:EOLhyphen"/>vaile.</hi> Why muſt the <hi>Romaniſts</hi> have their Purgatory from <hi>Tertullian,</hi> or <hi>Montanus,</hi> or the <hi>Heathens,</hi> (though truth is never the worſe for being among them, for their errours and corruptions as you ſay the Papiſts were blinded with many doctrines moſt ſound and Orthodox) rather then from the beginning, when it is written that ſome ſhall be ſaved, <hi>yet ſo as by fire;</hi> that Chriſt preached <hi>to the ſpirits in priſon:</hi> why ſhould you onely upon the Emperour <hi>Maximilian</hi> the ſecond's words, who was forced by Proreſtants to write that Letter in <hi>Thuanus,</hi> ſaid that Prieſts marriage was never for<g ref="char:EOLhyphen"/>bidden untill <hi>Calvin</hi>'s time: when S. <hi>Paul</hi> adviſeth them not to marry, and that they that goe a warfare do not en<g ref="char:EOLhyphen"/>tangle themſelves with the affairs of this life: and our Sa<g ref="char:EOLhyphen"/>viour ſaith that in the Kingdome, or under the Goſpel; as your beloved <hi>Hammond</hi> and <hi>Grotius</hi> explains it, you ſhall be as the <hi>Angels,</hi> who neither marry, nor are given in mar<g ref="char:EOLhyphen"/>riage; and you know the Prieſts are called the Angels of the Churches, &amp; they are the Virgins that follow the Lamb: why ſhould quote we <hi>Scotus</hi> that tranſubſtantiation was not a truth before the <hi>Lateran</hi> Council, whereas he ſaith onely forecaſt till then, whereas indeed, it was a truth ſince Chriſt ſaid <hi>This is my Body, this is my Bloud;</hi> and the Apoſtle ſaith he that eats or drinks it unworthily, eats or drinks his own
+<pb n="9" facs="tcp:48513:5"/>
+               <!-- PDF PAGE 124 -->damnation: no man is damned for eating a piece of bread, or drinking a drop of wine ſure: therfore the bread and wine is the body and bloud of Chriſt. Why ſhould you ſay that the half Communion was onely ſince <hi>Tho. Aquinas:</hi> when you do not find in the <hi>beginning</hi> any whole Communion? did Chriſt give the wine to any but Diſciples or Miniſters? did the Apoſtle in the 11. of the <hi>Corinthians</hi> ſay any more but that the Lord did ſuffer death, not the Scripture ſaid that the Chriſtians went from houſe to houſe onely break<g ref="char:EOLhyphen"/>ing of bread: And your <hi>Vaſquez</hi> ſaith no more but that it was uſed in the Latine Church, he doth not ſay it was al<g ref="char:EOLhyphen"/>lowed; and indeed here once for all, I muſt needs ſay, that though you tell the King and the world, that your quo<g ref="char:EOLhyphen"/>tations are the uſefuleſt part of your performance, as being the warrant and evidence of all the reſt, yet when we exa<g ref="char:EOLhyphen"/>mine them they are either miſquoted, or impertinently uſed, was not the Jewiſh Liturgy in the Hebrew for all Nations, Tongues and Languages for Jews and Proſelytes? were not the primitive Liturgies in Greek and Latine? and is <hi>Publick Prayer before the people in an unknown tongue onely preached,</hi> as for a form <hi>Gregory</hi> the <hi>Great:</hi> as bad manners occaſioned Pope <hi>Gregory</hi>'s decree, which eſtabliſhed that by an Eccleſiaſtical Law, which was already eſtabliſhed by primitive practice. If Invocation of Saints, when not heard of in S. <hi>Auſtin</hi>'s dayes, it was heard of in S. <hi>Cle<g ref="char:EOLhyphen"/>ment</hi>'s dayes, and <hi>Ignatius</hi>'s: if thoſe Epiſtles and genuine, the univerſal Supremacy of the Pope was from S. <hi>Peter</hi> by Right, though it pleaſed God he could not get his right untill <hi>Boniface</hi> the third's time, who gave him that <hi>actually,</hi> which he had <hi>rightfully</hi> before; ſo that touching theſe <hi>er<g ref="char:EOLhyphen"/>rours</hi> as you call them, we may ſay <hi>from the beginning it was ſo.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:48513:6"/>
+               <!-- PDF PAGE 125 -->
+               <label>
+                  <hi>Qu.</hi> 8.</label>
+               <lb/>
+Whether God from the beginning of the world before, under, or after the Law, allowed Liberty for variety of Con<g ref="char:EOLhyphen"/>ſtitution, in ſeveral Countries profeſſing one Religion? were not all the world under one way before Chriſt: is not all the world under one Faith, one Baptiſme, <hi>&amp;c.</hi> one way ſince Chriſt; be of one accord, of one mind: what is a a particular Church? is not a particular Congregation un<g ref="char:EOLhyphen"/>der one Paſtor meeting in the ſame place; if ſo, why do not you ſuffer the ſeveral congregations in <hi>England</hi> to en<g ref="char:EOLhyphen"/>joy their own Liberty in indifferent things? is it a Nation? where do you read that every Nation ſhould have it's own way of ſerving God, or do you not rather read that they ſhould be all: <hi>of one heart, and of one way.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 9.</label>
+               <lb/>
+In dutiful conformity to which example ſay you? the re<g ref="char:EOLhyphen"/>formers here in <hi>England,</hi> &amp;c. Were the Reformers here in <hi>England</hi> members of the <hi>Roman</hi> Church, or were they not? if they were not, they were of no Church, there being none then viſible, and ſo were no Chriſtians, and ſo not fit to re<g ref="char:EOLhyphen"/>form a Chriſtian Church: if they were members of the <hi>Roman</hi> Church, could they the members reform the Church? if they could, why may not other members of your Church which deſire a further reformation, reform yours.</p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 10.</label>
+               <lb/>
+Whether the Council of <hi>Trent</hi> may not as well adde ſe<g ref="char:EOLhyphen"/>veral points to be delivered, upon pain of damnation<g ref="char:punc">▪</g> as well as you adde ſeveral things to be done upon pain of damnation: eſpecially when as you ſay the things them<g ref="char:EOLhyphen"/>ſelves
+<pb n="11" facs="tcp:48513:6"/>
+               <!-- PDF PAGE 125 -->bind not unto damnation, but the power that enjoins them: ſo thoſe articles require not a belief upon pain of damnation, but the Church that eſtabliſheth them.</p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 11.</label>
+               <lb/>
+               <hi>But having recourſe to the Scriptures, and the primitive Fathers of the Church,</hi> &amp;c. <hi>where did they find the Scripture and the Primitive Fathers?</hi> did they not find them in the Church? and muſt they run from the Church to goe to the Fathers and Scriptures? you ſay that as the Papiſts ſeparate <hi>from the P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imitive Chriſtians, ſo the Reformers did from them:</hi> what Chriſtians did the Papiſts ſeparate from, when there were no Chriſtians but in the Church of <hi>Rome?</hi> all the Religion that was then in the world was in the Church of <hi>Rome,</hi> all Chriſtians holding Communion with it; and therefore as <hi>Rome</hi> could not make a ſchiſme unleſſe from it ſelf: ſo the need hath made ſchiſme from <hi>Rome.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 12.</label>
+               <lb/>
+Whether the Proteſtants, leaving the Church of <hi>Rome,</hi> was not the leaving of the Scripture the Primitive Church, and the four general Councils which are all owned in <hi>Rome<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 13.</label>
+               <lb/>
+Whether though the Goſpel was preached as <hi>Jeruſalem</hi> (as you ſay) to the <hi>Jew,</hi> yet <hi>Rome</hi> may not be the mother Church of the Gentiles<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <label>
+                  <hi>Qu.</hi> 14.</label>
+               <lb/>
+Whether <hi>Gildos</hi>'s Report of Chriſtianity in <hi>Britain,</hi> the later-time of <hi>Tiberius,</hi> do not make the <hi>Britiſh</hi> Church ſub<g ref="char:EOLhyphen"/>ject to the See of Rome, eſpecially ſeeing <hi>Gildos</hi> in the ſame Epiſtle, ſaith that Chriſtianity was brought hither by S. <hi>Peter?</hi>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
